@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ShowMeiLvl
+## Author: |cff7f7fff BlueAo|r from Warmane 
+## Notes: Addon that shows item level in character and inspect window.                                 Author:|cff7f7fff BlueAo|r from Warmane.
+## Version: 1.1
+
+ShowMeiLvl.lua
