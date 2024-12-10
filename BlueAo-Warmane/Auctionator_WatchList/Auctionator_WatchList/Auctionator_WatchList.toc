@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Auctionator WatchList
+## Author: |cff7f7fff BlueAo|r from Warmane 
+## Notes: An addition to Auctionator that will notify you about items below set price treshold after closing AH window.                                 Author:|cff7f7fff BlueAo|r from Warmane.
+## Version: 1.0
+## RequiredDeps: Auctionator
+## SavedVariablesPerCharacter: WatchListDB
+
+lib-st\LibStub\LibStub.lua
+lib-st\Core.lua
+
+Auctionator_WatchList.lua
