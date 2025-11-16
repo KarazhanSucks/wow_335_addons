@@ -28,4 +28,9 @@ https://discord.com/channels/259362419372064778/700352277344682005/1317042826621
 ## tdymel-Github  
 https://github.com/tdymel  
 https://github.com/tdymel/LegacyPlayersV3/tree/master/Addons  
-### AdvancedWotLKCombatLog  
+### AdvancedWotLKCombatLog
+
+## nomore-Discord  
+Discord User ID: 480481916827467776  
+https://discord.com/channels/859389663957352468/1412851228186247208/1438534873508872313  
+### WIM /who fix  
