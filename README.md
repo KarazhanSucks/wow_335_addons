@@ -33,4 +33,4 @@ https://github.com/tdymel/LegacyPlayersV3/tree/master/Addons
 ## nomore-Discord  
 Discord User ID: 480481916827467776  
 https://discord.com/channels/859389663957352468/1412851228186247208/1438534873508872313  
-### WIM /who fix  
+### WIM /who fix (+ WDM Astrolabe Lib Update by Trimitor)
